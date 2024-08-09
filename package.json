@@ -40,5 +40,9 @@
   "description": "React library for fast prototyping",
   "files": [
     "dist/"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sh-navid/ui-mod"
+  }
 }
