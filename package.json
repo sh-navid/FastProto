@@ -1,9 +1,10 @@
 {
   "name": "@ui-mod/ui-mod",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.12"
   },
   "scripts": {
     "build": "babel src --out-dir dist --copy-files"
