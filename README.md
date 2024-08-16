@@ -2,6 +2,9 @@
 
 > React components for fast prototyping
 
+## Setup
+`npm i @ui-mod/ui-mod`
+
 ## Components
 ### Toast
 
