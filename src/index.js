@@ -1,1 +1,3 @@
-export { default as Toast } from './components/Toast';
+import { Counter } from "./../project/src/components/Counter";
+
+export { Counter };

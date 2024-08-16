@@ -1,6 +1,6 @@
 # ui-mod
-React components for fast prototyping
 
+> React components for fast prototyping
 ## For Contributers
 - To build and link library
     - `npm run build`
