@@ -1,9 +1,9 @@
 {
   "name": "@ui-mod/ui-test",
-  "version": "0.0.4",
+  "version": "0.1.3",
   "private": true,
   "dependencies": {
-    "@ui-mod/ui-mod": "^0.0.4",
+    "@ui-mod/ui-mod": "^0.1.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",

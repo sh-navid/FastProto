@@ -1,3 +1,3 @@
-import { Counter } from "./../project/src/components/Counter";
+import { Toast } from "./../project/src/components/Toast";
 
-export { Counter };
+export { Toast };
