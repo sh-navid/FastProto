@@ -6,6 +6,17 @@
 `npm i @ui-mod/ui-mod`
 
 ## Components
+### Container
+Import Container
+```jsx
+import { Container } from "@ui-mod/ui-mod";
+```
+
+Define and use Container
+```jsx
+<Container>...</Container>
+```
+
 ### Toast
 
 Import toast
