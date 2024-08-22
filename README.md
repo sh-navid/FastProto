@@ -77,6 +77,8 @@ Show a toast
 setToast("This is my toast")
 ```
 
+![](./screenshot/Toast.png)
+
 ## For Contributers
 - To build and link library
     - `npm run build`
